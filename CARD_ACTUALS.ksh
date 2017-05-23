@@ -1,4 +1,6 @@
 #!/bin/ksh
+## CARD_ACTUALS.ksh | May 22, 2017 | Version 1 | Script: M. Krafick | No warranty implied, use at your own risk.
+##
 ## Purpose: To compare actual row count to estimated cardinality to determine if a wide variance between the two is impacting query performance.
 ##
 ## Granularity: Low to Medium

@@ -1,3 +1,6 @@
+-- ALL_LOCKING_EVENTS.sql | May 16, 2017 | Version 1 | Comments and Usage Notes: M. Krafick, SQL: Ember Crooks 
+-- No warranty implied, use at your own risk.
+--
 -- Purpose: Displays Deadlock and Lock Wait Information from data collected within a Locking Event Monitor.
 --
 -- Granularity: Low to Medium

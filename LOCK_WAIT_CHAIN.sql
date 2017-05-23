@@ -1,6 +1,6 @@
--- Purpose: Lock wait and lock chain information.
---
 -- LOCK_WAIT_CHAIN.sql | May 16, 2017 | Version 1 |  Useage and Notes: M. Krafick, SQL: Ember Crooks | No warranty implied, use at your own risk.
+--
+-- Purpose: Lock wait and lock chain information.
 --
 -- Granularity: Medium to High.
 --    

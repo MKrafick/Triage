@@ -1,6 +1,6 @@
--- Purpose: Displays count for specific statement involved in locking event from data within a locking event monitor.
---
 -- SUMMARIZE_BY_STATEMENT.sql | May 16, 2017 | Version 1 |  Useage and Notes: M. Krafick, SQL: Ember Crooks | No warranty implied, use at your own risk.
+--
+-- Purpose: Displays count for specific statement involved in locking event from data within a locking event monitor.
 --
 -- Granularity: Medium 
 --    

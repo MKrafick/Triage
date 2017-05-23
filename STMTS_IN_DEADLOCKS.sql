@@ -1,6 +1,6 @@
--- Purpose: Displays Statements involved in deadlock from data collected within a Locking Event Monitor.
---
 -- STMTS_IN_DEADLOCKS.sql | May 16, 2017 | Version 1 |  Useage and Notes: M. Krafick, SQL: Ember Crooks | No warranty implied, use at your own risk.
+--
+-- Purpose: Displays Statements involved in deadlock from data collected within a Locking Event Monitor.
 --
 -- Granularity: Medium
 --    

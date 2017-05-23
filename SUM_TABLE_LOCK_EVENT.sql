@@ -1,6 +1,6 @@
--- Purpose: Displays count of locking type (per table) from data collected within a Locking Event Monitor.
---
 -- SUM_TABLE_LOCK_EVENT.sql | May 16, 2017 | Version 1 |  Useage and Notes: M. Krafick, SQL: Ember Crooks | No warranty implied, use at your own risk.
+--
+-- Purpose: Displays count of locking type (per table) from data collected within a Locking Event Monitor.
 --
 -- Granularity: Medium to High
 --    

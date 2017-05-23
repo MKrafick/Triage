@@ -1,3 +1,6 @@
+-- LOCK_COUNT_BY_HOUR.sql | May 16, 2017 | Version 1 | Comments and Usage Notes: M. Krafick, SQL: Ember Crooks 
+-- No warranty implied, use at your own risk.
+--
 -- Purpose: Displays Deadlock and Lock Wait Information (by hour) from data collected within a Locking Event Monitor.
 --
 -- Granularity: Medium to High

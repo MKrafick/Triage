@@ -18,6 +18,7 @@ Many '%LOCK%' SQL are developed to query deadlock information flushed from an ev
 *ALL_LOCKING_EVENTS.sql*
 
 Displays Deadlock and Lock Wait Information from data collected within a Locking Event Monitor.
+
 Values Returned - Lock Type, Timestamp, Connection, Participant who rolled back
 
 
@@ -29,35 +30,41 @@ To compare actual row count to estimated cardinality to determine if a wide vari
 *LOCK_COUNT_BY_HOUR.sql*
 
 Displays Deadlock and Lock Wait Information (by hour) from data collected within a Locking Event Monitor.
+
 Values Returned - Lock Type, Year, Month, Day, Hour
 
 
 *LOCK_WAIT_CHAIN.sql*
 
 Lock wait and lock chain information.
+
 Values Returned - Lock Name (for SQL #2, Object Details), Agent Blocking, Agent Waiting, Lock Status, Lock Wait Start Time
 
 
 *STMTS_IN_DEADLOCKS.sql*
 
 Displays Statements involved in deadlock from data collected within a Locking Event Monitor.
+
 Values Returned - Number of time statment appeard, statement
 
 *SUMMARIZE_BY_STATEMENT.sql*
 
 Displays count for specific statement involved in locking event from data within a locking event monitor.
+
 Values Returned - Count, Statement involved in locking event
 
 
 *SUM_LOCK_EVENTS.sql*
 
 Displays count of locking type from data collected within a Locking Event Monitor.
+
 Values Returned - Lock, Type, Count
 
 
 *SUM_TABLE_LOCK_EVENT.sql*
 
 Displays count of locking type (per table) from data collected within a Locking Event Monitor.
+
 Values Returned - Table Schema, Table, Lock Type, Count
 
 

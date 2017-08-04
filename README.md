@@ -69,4 +69,5 @@ Values Returned - Table Schema, Table, Lock Type, Count
 
 
 *TOP20SQL.ksh*
+
 Returns list of SQL Statement Fragments and key metrics ranked in order of Rows Read, Execution Time, or Number Executions

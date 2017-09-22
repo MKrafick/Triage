@@ -2,7 +2,7 @@
 Triage Scripts and SQL for root cause analysis and troubleshooting.
 
 ### Disclaimer:
-I am not an advanced scripter or SQL writer. Use these at your own risk.
+I am not an advanced scripter or SQL writer. No warranty implied, use these at your own risk.
 
 ### Purpose:
 I'm slowly updating and preparing scripts I use for triage for general use via Github. These are scripts or SQL I may use outside tools like db2top, db2pd, or MONREPORT.DBSUMMARY. Many '%LOCK%' SQL are directly taken (or manipulated) with permission from Ember Crooks and can be found on DB2Commerce.com. 
